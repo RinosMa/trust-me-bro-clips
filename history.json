@@ -5,5 +5,21 @@
   "levels": [
    29
   ]
+ },
+ {
+  "date": "2026-10-20",
+  "format": "fail_then_clear",
+  "levels": [
+   7
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "format": "triple_fail",
+  "levels": [
+   3,
+   19,
+   21
+  ]
  }
 ]
