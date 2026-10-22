@@ -35,5 +35,21 @@
   "levels": [
    5
   ]
+ },
+ {
+  "date": "2026-10-22",
+  "format": "single_fail",
+  "levels": [
+   9
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "format": "triple_fail",
+  "levels": [
+   22,
+   26,
+   28
+  ]
  }
 ]
