@@ -38,18 +38,16 @@
  },
  {
   "date": "2026-10-22",
-  "format": "single_fail",
+  "format": "freeze_guess",
   "levels": [
-   9
+   1
   ]
  },
  {
   "date": "2026-10-22",
-  "format": "triple_fail",
+  "format": "he_said",
   "levels": [
-   22,
-   26,
-   28
+   27
   ]
  }
 ]
