@@ -49,5 +49,23 @@
   "levels": [
    27
   ]
+ },
+ {
+  "date": "2026-10-23",
+  "format": "death_montage",
+  "levels": [
+   13,
+   29,
+   12,
+   11,
+   9
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "format": "single_fail",
+  "levels": [
+   12
+  ]
  }
 ]
