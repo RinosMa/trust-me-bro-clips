@@ -8,5 +8,10 @@
   "date": "2026-10-23",
   "format": "garage",
   "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-10-23",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
  }
 ]
