@@ -67,5 +67,21 @@
   "levels": [
    12
   ]
+ },
+ {
+  "date": "2026-10-24",
+  "format": "triple_fail",
+  "levels": [
+   8,
+   18,
+   24
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "format": "freeze_guess",
+  "levels": [
+   2
+  ]
  }
 ]
