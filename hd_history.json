@@ -63,5 +63,55 @@
   "date": "2026-10-23",
   "format": "jet_mode",
   "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "the_jump",
+  "hook": "THE VIRAL FLYING CAR JUMP..."
+ },
+ {
+  "date": "2026-10-24",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-10-24",
+  "format": "jet_mode",
+  "hook": "SKIP TRAFFIC LIKE THIS"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "garage",
+  "hook": "BUILD YOUR DREAM EV"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "close_call",
+  "hook": "DON'T LET THE GAS CAR CATCH YOU"
+ },
+ {
+  "date": "2026-10-24",
+  "format": "jet_mode",
+  "hook": "WHEN THE CAR STARTS FLYING"
  }
 ]
