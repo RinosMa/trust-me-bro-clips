@@ -83,5 +83,23 @@
   "levels": [
    2
   ]
+ },
+ {
+  "date": "2026-10-25",
+  "format": "he_said",
+  "levels": [
+   19
+  ]
+ },
+ {
+  "date": "2026-10-25",
+  "format": "death_montage",
+  "levels": [
+   28,
+   30,
+   5,
+   3,
+   19
+  ]
  }
 ]
