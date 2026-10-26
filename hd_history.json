@@ -163,5 +163,55 @@
   "date": "2026-10-25",
   "format": "world_tour",
   "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-10-26",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "garage",
+  "hook": "WHICH ONE ARE YOU DRIVING?"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-10-26",
+  "format": "close_call",
+  "hook": "ONE MISTAKE..."
+ },
+ {
+  "date": "2026-10-26",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
+ },
+ {
+  "date": "2026-10-26",
+  "format": "close_call",
+  "hook": "ONE MISTAKE..."
+ },
+ {
+  "date": "2026-10-26",
+  "format": "the_jump",
+  "hook": "WAIT FOR THE LANDING..."
  }
 ]
