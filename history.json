@@ -101,5 +101,21 @@
    3,
    19
   ]
+ },
+ {
+  "date": "2026-10-26",
+  "format": "triple_fail",
+  "levels": [
+   20,
+   21,
+   22
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "format": "freeze_guess",
+  "levels": [
+   15
+  ]
  }
 ]
