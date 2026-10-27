@@ -213,5 +213,55 @@
   "date": "2026-10-26",
   "format": "the_jump",
   "hook": "WAIT FOR THE LANDING..."
+ },
+ {
+  "date": "2026-10-27",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "the_jump",
+  "hook": "POV: YOU HIT THE LOOP RAMP"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-10-27",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "world_tour",
+  "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-10-27",
+  "format": "the_jump",
+  "hook": "WAIT FOR THE LANDING..."
  }
 ]
