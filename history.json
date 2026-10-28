@@ -135,5 +135,19 @@
   "levels": [
    1
   ]
+ },
+ {
+  "date": "2026-10-28",
+  "format": "freeze_guess",
+  "levels": [
+   17
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "format": "single_fail",
+  "levels": [
+   10
+  ]
  }
 ]
