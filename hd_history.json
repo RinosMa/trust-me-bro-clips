@@ -313,5 +313,55 @@
   "date": "2026-10-28",
   "format": "jet_mode",
   "hook": "WHEN THE CAR STARTS FLYING"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "close_call",
+  "hook": "ONE MISTAKE..."
+ },
+ {
+  "date": "2026-10-29",
+  "format": "the_jump",
+  "hook": "POV: YOU HIT THE LOOP RAMP"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "world_tour",
+  "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "jet_mode",
+  "hook": "SKIP TRAFFIC LIKE THIS"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "the_jump",
+  "hook": "WAIT FOR THE LANDING..."
+ },
+ {
+  "date": "2026-10-29",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "garage",
+  "hook": "WHICH ONE ARE YOU DRIVING?"
  }
 ]
