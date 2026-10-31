@@ -181,5 +181,25 @@
   "levels": [
    21
   ]
+ },
+ {
+  "date": "2026-10-31",
+  "format": "death_montage",
+  "levels": [
+   1,
+   9,
+   11,
+   5,
+   23
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "format": "triple_fail",
+  "levels": [
+   1,
+   8,
+   20
+  ]
  }
 ]
