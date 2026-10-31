@@ -413,5 +413,55 @@
   "date": "2026-10-30",
   "format": "jet_mode",
   "hook": "WHEN THE CAR STARTS FLYING"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "the_jump",
+  "hook": "POV: YOU HIT THE LOOP RAMP"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "jet_mode",
+  "hook": "SKIP TRAFFIC LIKE THIS"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "garage",
+  "hook": "BUILD YOUR DREAM EV"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "close_call",
+  "hook": "ONE MISTAKE..."
+ },
+ {
+  "date": "2026-10-31",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "the_jump",
+  "hook": "THIS JUMP WENT VIRAL. NOW PLAY IT"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
  }
 ]
