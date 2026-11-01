@@ -463,5 +463,55 @@
   "date": "2026-10-31",
   "format": "garage",
   "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "world_tour",
+  "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "the_jump",
+  "hook": "WAIT FOR THE LANDING..."
+ },
+ {
+  "date": "2026-11-01",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "the_jump",
+  "hook": "THE VIRAL FLYING CAR JUMP..."
+ },
+ {
+  "date": "2026-11-01",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "world_tour",
+  "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-11-01",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
  }
 ]
