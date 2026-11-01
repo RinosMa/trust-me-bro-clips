@@ -201,5 +201,19 @@
    8,
    20
   ]
+ },
+ {
+  "date": "2026-11-01",
+  "format": "freeze_guess",
+  "levels": [
+   23
+  ]
+ },
+ {
+  "date": "2026-11-01",
+  "format": "he_said",
+  "levels": [
+   15
+  ]
  }
 ]
