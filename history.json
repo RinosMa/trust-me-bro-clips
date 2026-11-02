@@ -215,5 +215,23 @@
   "levels": [
    15
   ]
+ },
+ {
+  "date": "2026-11-02",
+  "format": "single_fail",
+  "levels": [
+   2
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "format": "death_montage",
+  "levels": [
+   3,
+   7,
+   30,
+   19,
+   29
+  ]
  }
 ]
