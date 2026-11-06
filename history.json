@@ -267,5 +267,19 @@
    18,
    1
   ]
+ },
+ {
+  "date": "2026-11-06",
+  "format": "challenge",
+  "levels": [
+   27
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "format": "freeze_guess",
+  "levels": [
+   16
+  ]
  }
 ]
