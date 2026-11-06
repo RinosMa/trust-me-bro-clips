@@ -663,5 +663,55 @@
   "date": "2026-11-04",
   "format": "world_tour",
   "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "jet_mode",
+  "hook": "WHEN THE CAR STARTS FLYING"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "the_jump",
+  "hook": "THIS JUMP WENT VIRAL. NOW PLAY IT"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-11-06",
+  "format": "close_call",
+  "hook": "DON'T LET THE GAS CAR CATCH YOU"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "world_tour",
+  "hook": "DRIVE FROM THE USA TO JAPAN"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
  }
 ]
