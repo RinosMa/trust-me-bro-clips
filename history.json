@@ -281,5 +281,23 @@
   "levels": [
    16
   ]
+ },
+ {
+  "date": "2026-11-08",
+  "format": "death_montage",
+  "levels": [
+   13,
+   29,
+   9,
+   22,
+   20
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "format": "freeze_guess",
+  "levels": [
+   19
+  ]
  }
 ]
