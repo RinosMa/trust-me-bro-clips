@@ -313,5 +313,19 @@
   "levels": [
    11
   ]
+ },
+ {
+  "date": "2026-11-10",
+  "format": "he_said",
+  "levels": [
+   5
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "format": "freeze_guess",
+  "levels": [
+   7
+  ]
  }
 ]
