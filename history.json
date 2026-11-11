@@ -327,5 +327,23 @@
   "levels": [
    7
   ]
+ },
+ {
+  "date": "2026-11-11",
+  "format": "fail_then_clear",
+  "levels": [
+   10
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "format": "death_montage",
+  "levels": [
+   27,
+   12,
+   8,
+   2,
+   15
+  ]
  }
 ]
