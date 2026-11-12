@@ -863,5 +863,55 @@
   "date": "2026-11-11",
   "format": "the_jump",
   "hook": "THIS JUMP WENT VIRAL. NOW PLAY IT"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "jet_mode",
+  "hook": "SKIP TRAFFIC LIKE THIS"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "garage",
+  "hook": "WHICH ONE ARE YOU DRIVING?"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "the_jump",
+  "hook": "POV: FULL SEND OFF THE RAMP"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "jet_mode",
+  "hook": "WHEN THE CAR STARTS FLYING"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "the_jump",
+  "hook": "POV: FULL SEND OFF THE RAMP"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "close_call",
+  "hook": "ONE MISTAKE..."
  }
 ]
