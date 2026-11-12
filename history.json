@@ -345,5 +345,21 @@
    2,
    15
   ]
+ },
+ {
+  "date": "2026-11-12",
+  "format": "he_said",
+  "levels": [
+   3
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "format": "triple_fail",
+  "levels": [
+   3,
+   18,
+   22
+  ]
  }
 ]
