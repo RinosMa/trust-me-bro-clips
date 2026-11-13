@@ -361,5 +361,23 @@
    18,
    22
   ]
+ },
+ {
+  "date": "2026-11-13",
+  "format": "death_montage",
+  "levels": [
+   11,
+   21,
+   17,
+   9,
+   1
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "format": "single_fail",
+  "levels": [
+   26
+  ]
  }
 ]
