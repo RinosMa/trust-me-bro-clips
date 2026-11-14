@@ -379,5 +379,19 @@
   "levels": [
    26
   ]
+ },
+ {
+  "date": "2026-11-14",
+  "format": "fail_then_clear",
+  "levels": [
+   20
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "format": "challenge",
+  "levels": [
+   7
+  ]
  }
 ]
