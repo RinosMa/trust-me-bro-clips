@@ -393,5 +393,21 @@
   "levels": [
    7
   ]
+ },
+ {
+  "date": "2026-11-15",
+  "format": "triple_fail",
+  "levels": [
+   12,
+   19,
+   30
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "format": "he_said",
+  "levels": [
+   16
+  ]
  }
 ]
