@@ -423,5 +423,23 @@
   "levels": [
    8
   ]
+ },
+ {
+  "date": "2026-11-17",
+  "format": "he_said",
+  "levels": [
+   26
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "format": "death_montage",
+  "levels": [
+   22,
+   10,
+   17,
+   29,
+   21
+  ]
  }
 ]
