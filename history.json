@@ -441,5 +441,21 @@
    29,
    21
   ]
+ },
+ {
+  "date": "2026-11-18",
+  "format": "triple_fail",
+  "levels": [
+   3,
+   5,
+   9
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "format": "freeze_guess",
+  "levels": [
+   28
+  ]
  }
 ]
