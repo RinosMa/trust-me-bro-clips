@@ -1218,5 +1218,55 @@
   "date": "2026-11-18",
   "format": "gas_chase",
   "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "the_jump",
+  "hook": "THE VIRAL FLYING CAR JUMP..."
+ },
+ {
+  "date": "2026-11-26",
+  "format": "gas_chase",
+  "hook": "THE GAS GUZZLER IS RIGHT BEHIND"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "jet_mode",
+  "hook": "SKIP TRAFFIC LIKE THIS"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "close_call",
+  "hook": "DON'T LET THE GAS CAR CATCH YOU"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "the_jump",
+  "hook": "WAIT FOR THE LANDING..."
+ },
+ {
+  "date": "2026-11-26",
+  "format": "garage",
+  "hook": "16 ELECTRIC CARS PICK ONE"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "gas_chase",
+  "hook": "RUN FROM THE GAS CAR"
  }
 ]
