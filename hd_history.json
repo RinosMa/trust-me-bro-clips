@@ -1268,5 +1268,55 @@
   "date": "2026-11-26",
   "format": "gas_chase",
   "hook": "RUN FROM THE GAS CAR"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "garage",
+  "hook": "BUILD YOUR DREAM EV"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "close_call",
+  "hook": "HOW FAR CAN YOU GET?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "world_tour",
+  "hook": "WHICH COUNTRY IS YOUR FAVE?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "the_jump",
+  "hook": "REAL FLYING CAR OR VIDEO GAME?"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "jet_mode",
+  "hook": "JET MODE: ACTIVATED"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "world_tour",
+  "hook": "ONE FLYING CAR. SIX COUNTRIES."
+ },
+ {
+  "date": "2026-11-27",
+  "format": "gas_chase",
+  "hook": "ELECTRIC VS GAS WHO WINS?"
  }
 ]
