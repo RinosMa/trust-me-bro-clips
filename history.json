@@ -491,5 +491,19 @@
   "levels": [
    2
   ]
+ },
+ {
+  "date": "2026-11-28",
+  "format": "freeze_guess",
+  "levels": [
+   26
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "format": "he_said",
+  "levels": [
+   20
+  ]
  }
 ]
